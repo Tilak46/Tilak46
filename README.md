@@ -4,14 +4,19 @@ I’m a Front-End Developer based in India.
 
 ### 💻 Skills
 
+<h2>🚀 Tech Stack</h2>
+
+<h3>👨‍💻 Frontend</h3>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
+<h3>🧠 Frameworks</h3>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,nextjs" />
 </p>
 
+<h3>🎨 Styling / 💾 Database</h3>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=tailwind,supabase" />
 </p>
