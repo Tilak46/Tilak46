@@ -4,7 +4,9 @@ I’m a Front-End Developer based in India.
 
 ### 💻 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js, react,nextjs, tailwind, supabase)](https://skillicons.dev)
+![Frontend](https://skillicons.dev/icons?i=html,css,js)
+![Frameworks](https://skillicons.dev/icons?i=react,nextjs)
+![Styling/Backend](https://skillicons.dev/icons?i=tailwind,supabase)
 
 ### 🔗 Connect with me
 
