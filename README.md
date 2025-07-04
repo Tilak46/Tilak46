@@ -2,9 +2,9 @@
 
 I’m a Front-End Developer based in India.
 
-### 💻 Skills
 
-<h2>🚀 Tech Stack</h2>
+
+### <h2>🚀 Tech Stack</h2>
 
 <h3>👨‍💻 Frontend</h3>
 <p align="left">
@@ -20,6 +20,7 @@ I’m a Front-End Developer based in India.
 <p align="left">
   <img src="https://skillicons.dev/icons?i=tailwind,supabase" />
 </p>
+
 ### 🔗 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tilak-patel-92a37b296)
