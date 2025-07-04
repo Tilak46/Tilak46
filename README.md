@@ -1,6 +1,6 @@
 # Hi! My name is Tilak Patel 😄
 
-I’m a Front-End Developer based in India.
+🌍 I’m a Front-End Developer based in India.
 
 
 
