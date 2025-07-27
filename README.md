@@ -1,21 +1,21 @@
 # Hi! My name is Tilak Patel 😄
 
-🌍 I’m a Front-End Developer based in India.
+🌍 I’m a Full-Stack Developer based in India.
 
 
 
 ### <h2>🚀 Tech Stack</h2>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
 </p>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs" />
+  <img src="https://skillicons.dev/icons?i=node,express,nextjs" />
 </p>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=tailwind,supabase" />
+  <img src="https://skillicons.dev/icons?i=tailwind,supabase,mongodb,postgresql" />
 </p>
 
 ### 🔗 Connect with me
