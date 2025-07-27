@@ -7,15 +7,15 @@
 ### <h2>🚀 Tech Stack</h2>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
 </p>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=node,express,nextjs" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nextjs" />
 </p>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=tailwind,supabase,mongodb,postgresql" />
+  <img src="https://skillicons.dev/icons?i=supabase,mongodb,postgresql" />
 </p>
 
 ### 🔗 Connect with me
