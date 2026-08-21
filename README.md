@@ -1,25 +1,55 @@
-# Hi! My name is Tilak Patel 😄
+# Hi, I'm Tilak Patel 👋
 
-🌍 I’m a Full-Stack Developer based in India.
+**Software Developer | Full-Stack Engineer**
 
+I build production-ready web applications, backend systems, API integrations, and developer tools.
 
+Currently building **RouteLens**, a developer tool that automatically discovers and organizes APIs from Node.js/Express codebases for easier testing and development.
 
-### <h2>🚀 Tech Stack</h2>
+## 🚀 What I Work With
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
-</p>
+**Frontend**
+- React.js
+- Next.js
+- TypeScript
+- Tailwind CSS
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nextjs" />
-</p>
+**Backend**
+- Node.js
+- Express.js
+- REST APIs
+- PostgreSQL
+- Prisma
+- Redis
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=supabase,mongodb,postgresql" />
-</p>
+**Cloud & DevOps**
+- AWS
+- Docker
+- CI/CD
+- GitHub Actions
 
-### 🔗 Connect with me
+**Other**
+- API Integrations
+- Webhooks
+- Stripe
+- Twilio
+- Firebase
+
+## 🛠️ Featured Project
+
+### RouteLens
+**Automatic API Discovery & Testing Tool**
+
+A local-first developer tool for Node.js/Express applications that scans backend codebases, discovers API routes and relationships, and generates a structured, test-ready API workspace.
+
+- AST-based API discovery
+- Automatic endpoint detection
+- Request-body discovery
+- API relationship mapping
+- Designed for production-sized Node.js/Express codebases
+
+> RouteLens is currently under active development.
+
+## 🔗 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tilak-patel-92a37b296)
-
----
