@@ -9,31 +9,32 @@ Currently building **RouteLens**, a developer tool that automatically discovers 
 ## 🚀 What I Work With
 
 **Frontend**
-- React.js
-- Next.js
-- TypeScript
-- Tailwind CSS
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind" />
+  </a>
+</p>
 
 **Backend**
-- Node.js
-- Express.js
-- REST APIs
-- PostgreSQL
-- Prisma
-- Redis
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma,redis" />
+  </a>
+</p>
 
 **Cloud & DevOps**
-- AWS
-- Docker
-- CI/CD
-- GitHub Actions
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,docker,githubactions" />
+  </a>
+</p>
 
 **Other**
-- API Integrations
-- Webhooks
-- Stripe
-- Twilio
-- Firebase
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=firebase" />
+  </a>
+</p>
 
 ## 🛠️ Featured Project
 
