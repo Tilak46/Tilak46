@@ -11,41 +11,22 @@ Currently building **RouteLens**, a developer tool that automatically discovers 
 **Frontend**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,html,css" />
   </a>
 </p>
 
 **Backend**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma,redis" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma,redis,firebase" />
   </a>
-</p>
-<p align="left">
-  <img src="https://img.shields.io/badge/REST_APIs-005571?logo=postman&logoColor=white" alt="REST APIs" />
 </p>
 
 **Cloud & DevOps**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,docker,githubactions" />
+    <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,postman,git" />
   </a>
-</p>
-<p align="left">
-  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?logo=githubactions&logoColor=white" alt="CI/CD" />
-</p>
-
-**Other**
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=firebase" />
-  </a>
-</p>
-<p align="left">
-  <img src="https://img.shields.io/badge/Stripe-635BFF?logo=stripe&logoColor=white" alt="Stripe" />
-  <img src="https://img.shields.io/badge/Twilio-F22F46?logo=twilio&logoColor=white" alt="Twilio" />
-  <img src="https://img.shields.io/badge/API_Integrations-007ACC" alt="API Integrations" />
-  <img src="https://img.shields.io/badge/Webhooks-333333" alt="Webhooks" />
 </p>
 
 ## 🛠️ Featured Project
